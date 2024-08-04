@@ -1,7 +1,7 @@
 # add-sub-div-mul
 
-**Last Updated:** 4 Aug 2024
-**New Updates:** <NULL>
+**Last Updated:** 4 Aug 2024\n
+**New Updates:** <NULL>\n
 **Author:** Harsh
 
 ## Overview
