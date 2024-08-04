@@ -34,7 +34,9 @@ div(int a, int b); // a / b
 
 // For Multiplication:
 mul(int a, int b); // a * b
-'''
+
+```
+
 ### Installation
 
 Instructions for installing and using the library will be added soon.
